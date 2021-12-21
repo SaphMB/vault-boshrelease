@@ -86,3 +86,7 @@
 # vault
 
 - Bumped vault to v1.9.1
+
+# vault
+
+- Bumped vault to v1.9.2
