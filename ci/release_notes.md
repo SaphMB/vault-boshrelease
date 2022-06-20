@@ -118,3 +118,7 @@
 # vault
 
 - Bumped vault to v1.10.4
+
+# vault
+
+- Bumped vault to v1.11.0
