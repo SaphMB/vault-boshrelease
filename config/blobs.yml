@@ -2,7 +2,7 @@ jq/jq-linux64-1.5:
   size: 3027945
   object_id: 9302e872-a5fc-4141-b985-033d47829089
   sha: d8e36831c3c94bb58be34dd544f44a6c6cb88568
-vault/vault_1.11.1_linux_amd64.zip:
-  size: 73514493
-  object_id: c7101f94-4500-41c8-4181-22d94d7c8919
-  sha: sha256:aa2ed532d9a0ecc8635fed63cb3fb6de472b4c01ca622a9a199cd92a046bc73a
+vault/vault_1.11.2_linux_amd64.zip:
+  size: 73505211
+  object_id: 29b009eb-6a10-48af-600e-3093a956621a
+  sha: sha256:ace4138269cb7214c73529f984b793d66074e3a3ad373eaa77bc9b39490d9ef9
